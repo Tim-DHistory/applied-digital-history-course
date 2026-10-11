@@ -101,8 +101,8 @@ There is no separate Week 1 practical submission.
 
 ## Completion Checklist
 
-- [ ] I can access the central course repository.
-- [ ] I created my private portfolio repository from the supplied template.
-- [ ] I added the instructor as a collaborator.
-- [ ] I completed and saved the Week 1 journal entry.
-- [ ] I understand where future tutorials will be published.
+- [x] I can access the central course repository.
+- [x] I created my private portfolio repository from the supplied template.
+- [x] I added the instructor as a collaborator.
+- [x] I completed and saved the Week 1 journal entry.
+- [x] I understand where future tutorials will be published.
